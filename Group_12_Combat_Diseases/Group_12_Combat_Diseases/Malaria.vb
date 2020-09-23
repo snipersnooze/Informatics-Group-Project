@@ -64,7 +64,8 @@ Public Class Malaria
                                        + Environment.NewLine + "-> Chills, Shivering and Sweating."
     End Function
 
-    Public Overrides Function Display() As String
+	'polymorphism
+    Public Overrides Function Display() As String'display the disease information and the added information about malaria 
         Dim output As String
         output = "Recovery rate: " & CStr(RecoveryRate()) & vbCrLf
         output += Symptoms() & vbCrLf
