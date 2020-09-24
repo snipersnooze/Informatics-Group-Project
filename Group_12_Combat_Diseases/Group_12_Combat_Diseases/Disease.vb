@@ -20,10 +20,10 @@ Public Class Disease
     Private _deaths As Integer
 
     'Constructor
-    Public Sub New(months As Integer, Cases As Integer)
+    Public Sub New(months As Integer)
         _months = enforceRange(months)
         'Resize the Cases array
-        ReDim _cases(Cases)
+        ReDim _cases(_months)
     End Sub
 
     'properties
