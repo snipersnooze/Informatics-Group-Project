@@ -26,7 +26,7 @@ Public Class Malaria
 
     'Constructor
     Public Sub New(Months As Integer, Cases As Integer, Mosquito As Integer, Area As Double, Water As Double, Nets As Integer)
-        MyBase.New(Months, Cases)
+        MyBase.New(Months)
         _Mosquito = enforceRange(Mosquito)
         _Area = enforceRange(Area)
         _KlWater = enforceRange(Water)

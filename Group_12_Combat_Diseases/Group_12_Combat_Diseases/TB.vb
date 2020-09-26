@@ -22,7 +22,7 @@ Public Class TB
         _medMonths = enforceRange(medMonths)
     End Sub
 
-    Public Function TBType() As String
+    Public Function TBType() As String 'type of TB
         Select Case _medMonths
             Case 0 To 6
                 Return "Normal TB"
@@ -35,8 +35,9 @@ Public Class TB
         End Select
     End Function
 
-    Public Overrides Function Display() As String
+    Public Overrides Function Display() As String 'pylymorphism
         Return MyBase.Display() + "TB type: " & TBType()
     End Function
+
 
 End Class
