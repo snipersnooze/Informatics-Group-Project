@@ -1,0 +1,11 @@
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\bin\Debug\Group_12_Combat_Diseases.exe.config
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\bin\Debug\Group_12_Combat_Diseases.exe
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\bin\Debug\Group_12_Combat_Diseases.pdb
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\bin\Debug\Group_12_Combat_Diseases.xml
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.vbprojAssemblyReference.cache
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.frmCD.resources
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.Resources.resources
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.vbproj.GenerateResource.cache
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.exe
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.xml
+C:\Users\Nazreen\Documents\imf projects\project\Informatics-Group-Project\Group_12_Combat_Diseases\Group_12_Combat_Diseases\obj\Debug\Group_12_Combat_Diseases.pdb

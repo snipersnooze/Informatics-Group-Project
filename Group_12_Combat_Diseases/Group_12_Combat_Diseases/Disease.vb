@@ -14,8 +14,8 @@ Option Explicit On
 
 Public Class Disease
     'Variables
-    Private _cases() As Integer
-    Private _months As Integer
+    Protected _cases() As Integer
+    Protected _months As Integer
     Private _totalCases As Integer
     Private _deaths As Integer
 
